@@ -1,6 +1,6 @@
 ## 1.Salutare
 
-![2.](../images/avatar.jpg)
+![2.](images/avatar.jpg)
 
 ## 3.Despre mine
 Petrasco Bogdan, 21 ani, ambitios, creativ.
