@@ -29,7 +29,7 @@ Game Design, Programare, Înotul.
 
 ### Pe care doresc să le învăț
 
-C#.
+- C#.
 
 ## 6. Cum mă puteți contacta
 
