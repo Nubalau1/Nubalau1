@@ -14,11 +14,18 @@ Game Design, Programare, Înotul.
 
 ### Cunoscute
 
-Python, Javascript, Java, C++.
+- Python
+- Javascript
+- Java
+- C++
 
 ### În proces de învățare
 
-Php, Spring framework, Vue.js framework, Flask framework, Firebase framework.
+- Php
+- Spring framework
+- Vue.js framework
+- Flask framework
+- Firebase framework
 
 ### Pe care doresc să le învăț
 
